@@ -8,7 +8,7 @@ hello git
 hello git
 hello git master test
 hello git
-hello git hot-fix test
-hello git 
+hello git hot-fix test 
 master add 11
 master add 22
+hot-fix add 11
